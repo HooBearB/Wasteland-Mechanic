@@ -42,7 +42,7 @@ rand = 0
 loop = 0
 remove = 0
 plrinput = 0
-#If something fucks up set debug to 1 and it'll print debug statements as the program runs
+#If something screws up set debug to 1 and it'll print debug statements as the program runs
 debug = 0
 #If you don't wanna waste 10 seconds of your life each time you run this thing make this have a value of 1
 bypassIntro = 0
