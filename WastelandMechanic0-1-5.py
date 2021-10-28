@@ -51,7 +51,7 @@ plrinput = 0
 #Please send screenshots of what runs right before the error to me via discord or github
 debug = 0
 #If you don't wanna waste 10 seconds of your life each time you run this thing make this have a value of 1
-bypassIntro = 1
+bypassIntro = 0
 money = 500
 minutes = 0
 minutesStr = ""
