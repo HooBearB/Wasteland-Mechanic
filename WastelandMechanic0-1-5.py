@@ -19,7 +19,7 @@
 #Made by Flint
 #Project start: August 26, 2021
 #Project end: Not any time soon
-#Version number: v0.2 (RELEASE)
+#Version number: v0.1.5 (RELEASE)
 
 """
 Commenting conventions in this program:
