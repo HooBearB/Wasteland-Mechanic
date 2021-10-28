@@ -19,16 +19,16 @@
 #Made by Flint
 #Project start: August 26, 2021
 #Project end: Not any time soon ;-;
-#Version number: v0.1 (PRERELEASE)
+#Version number: v0.1.0 (PRERELEASE)
 
 """
 Commenting conventions in this program:
-I didn't fuckin make any comments lol
+I didn't make any comments lol
 Good luck figuring out what the hell this does because I sure can't
 """
 
 """
-v0.1 has:
+v0.1.0 has:
 - Car modification system
 - Graphical system for managing and printing ASCII-styled vehicles
 - Graphical depiction of broken or fixed parts
@@ -45,7 +45,7 @@ plrinput = 0
 #If something fucks up set debug to 1 and it'll print debug statements as the program runs
 debug = 0
 #If you don't wanna waste 10 seconds of your life each time you run this thing make this have a value of 1
-bypassIntro = 1
+bypassIntro = 0
 money = 500
 
 def changeCarGraphics():
