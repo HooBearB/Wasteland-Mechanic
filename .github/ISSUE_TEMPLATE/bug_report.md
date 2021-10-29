@@ -2,21 +2,21 @@
 name: Bug report
 about: Report a bug for WM
 title: "[BUG] Input title"
-labels: ''
+labels: 'Bug'
 assignees: HooBearB
 
 ---
 
-**Describe the bug**
+**Describe the bug:**
 You can give me a really quick description of what might be wrong
 
-**To Reproduce**
+**To reproduce:**
 If you can, give exact steps of how to reach this error again. Some bugs bay be entirely situational, however.
 
-**Expected behavior**
+**Expected behavior:**
 Write a quick description of what you thought would happen.
 
-**Screenshots**
+**Screenshots:**
 If you can, add screenshots that show your problem.
 
 **Computer specs:**
